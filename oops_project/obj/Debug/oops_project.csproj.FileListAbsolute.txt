@@ -1,0 +1,6 @@
+C:\Users\Karthiga\source\repos\project_4\oops_project\bin\Debug\oops_project.dll
+C:\Users\Karthiga\source\repos\project_4\oops_project\bin\Debug\oops_project.pdb
+C:\Users\Karthiga\source\repos\project_4\oops_project\obj\Debug\oops_project.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\project_4\oops_project\obj\Debug\oops_project.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\project_4\oops_project\obj\Debug\oops_project.dll
+C:\Users\Karthiga\source\repos\project_4\oops_project\obj\Debug\oops_project.pdb

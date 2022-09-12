@@ -1,0 +1,11 @@
+C:\Users\Karthiga\source\repos\project_4\project_4\bin\Debug\project_4.exe.config
+C:\Users\Karthiga\source\repos\project_4\project_4\bin\Debug\project_4.exe
+C:\Users\Karthiga\source\repos\project_4\project_4\bin\Debug\project_4.pdb
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.exe
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.pdb
+C:\Users\Karthiga\source\repos\project_4\project_4\bin\Debug\oops_project.dll
+C:\Users\Karthiga\source\repos\project_4\project_4\bin\Debug\oops_project.pdb
+C:\Users\Karthiga\source\repos\project_4\project_4\obj\Debug\project_4.csproj.CopyComplete
